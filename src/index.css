@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-attachment: fixed;
+  background-image: url("https://wallpapers.com/images/hd/brown-autumn-1920-x-1200-wallpaper-xh4hl7nhpjqro0zd.jpg");
+  /* background-color:rgb(199, 105, 5); */
+  /* background-color: #3f3f3f; */
+  background-size: cover;
+}

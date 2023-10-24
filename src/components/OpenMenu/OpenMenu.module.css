@@ -1,0 +1,19 @@
+
+  /* Styles for the button */
+  .aesthetic-button {
+    margin-top: 10px;
+    background-color: #8B4513; /* Brown color */
+    color: #fff; /* White text color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none; /* Remove the default button border */
+    border-radius: 10px; /* Add a slight border-radius for rounded corners */
+    font-size: 16px; /* Adjust font size as needed */
+    cursor: pointer; /* Show a pointer cursor when hovering over the button */
+    transition: background-color 0.3s ease; /* Add a smooth transition effect */
+  }
+  
+  /* Hover effect */
+  .aesthetic-button:hover {
+    background-color: #ce6636; /* Lighter brown color when hovered */
+  }
+  
